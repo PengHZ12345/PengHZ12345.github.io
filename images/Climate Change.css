@@ -27,7 +27,7 @@
 		margin:0 auto;
 	}	
 	#header {
-		width:1116px;
+		width:1200px;
 		height:100px;
 	}
 	.logo {
@@ -67,11 +67,11 @@
 	}	
 	
 	#main {
-		width:1116px;
+		width:1200px;
 		height:2950px;
 	}
 	#main .main0 ul li #guidemain p{
-		width:1116px;
+		width:1200px;
 		height:35px;
 		cursor:pointer;
 		font-size:30px;
@@ -85,8 +85,8 @@
 		font-size:20px;
 		color:black;
 		display:block;
-		width:160px;
-		height:50px;
+		width:174px;
+		height:60px;
 		float:left;
 		padding:10px 5px 0 0;
 		border:1px solid #dedede;
@@ -103,7 +103,7 @@
 		background:#5CADAD;
 	}
 	#main .main1 {
-		width:1116px;
+		width:1200px;
 		height:270px;
 		border-bottom:3px dashed #C4E1E1;
 		padding:40px 0 40px 20px;
@@ -116,7 +116,7 @@
 		
 	}
 	#image{
-		width:1116px;
+		width:1200px;
 		height:598px;
 		
 	}
@@ -140,7 +140,7 @@
 		padding:20px 0;
 	}
 	#footer{
-		width:1116px;
+		width:1200px;
 		height:210px;
 	}
 	.ftop {
